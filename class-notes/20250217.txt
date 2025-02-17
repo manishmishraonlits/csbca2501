@@ -1,0 +1,83 @@
+
+Programming Language: Language to write programs
+	1. Low Level Programming - (Machine & Assembly Language)
+	2. High Level Programming - (C, C++, Java, Python)
+
+Paradigm: Principles/Techniques used for writing programs.
+	1. POP (Procedure Oriented Programming)
+	2. OOP (Object Oriented Programming)	
+
+Jargon
+
+#include <stdio.h>
+#include <conio.h>
+
+Addition of two integer		(Verbose)
+ 1. Ask the first integer.
+ 2. Read and store it.
+ 3. Ask the second integer.
+ 4. Read and store it.
+ 5. Find the sum and store.
+ 6. Tell the sum.
+
+Programming and Problem Solving using C
+
+floating point numbers
+
+Algorithm is a step by step solution of a problem.
+
+Philosophy
+
+Algorithm: Read two integer and find their sum.
+Step 1: Start
+Step 2: Read a, b
+Step 3: c = a + b
+Step 4: Print c
+Step 5: Stop
+
+
+
+
+
+Arithmetic (specific values) vs Algebra (Generic values)
+1, 2, - constant		eng,math,sc,gender,name
+
+PI - 3.14
+g = 9.8
+
+
+Write an algorithm to read marks scored by a student in any three subjects and 
+find his total marks obtained.
+
+
+I	-	Input
+P	-	Process
+O	-	Output
+
+Algorithm: to read marks scored by a student in any three subjects and 
+find his total marks obtained.
+Step 1: Start
+Step 2: Read m1, m2, m3
+Step 3: tm = m1 + m2 + m3
+Step 4: Print tm
+Step 5: Stop
+
+3. Write an algorithm to read length and breadth of a rectangle and find its area.
+Step 1: Start
+Step 2: Read l, b		scanf("%d%d", &l, &b);
+Step 3: a = l * b		a = l * b;
+Step 4: Print a			printf("%d", a);
+Step 5: Stop
+
+4. Write an algorithm to read principle, rate and time and calculate simple interest.
+Step 1: Start
+Step 2: Read p, r, t
+Step 3: si = (p*r*t)/100
+Step 4: Print si
+Step 5: Stop
+
+5. Write an algorithm to read temperature in degree Celsius and convert it into degree
+   Fahrenheit.
+6. Write an algorithm to read radius of a circle and find its circumference and area.
+
+Learn about git and GitHub
