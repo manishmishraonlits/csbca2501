@@ -1,0 +1,50 @@
+
+	Steps in creating program:
+	1. Requirement gathering & Analysis (What is required?)
+	2. Design (How the problem is to be solved?)
+	3. Code
+	4. Test
+		Test cases
+
+
+
+	a = l * b
+	area = length * breadth
+
+	c = 2 * pi * r
+	a = pi * r * r
+
+
+	Tools required for developing programs:
+	1. A functional brain
+	2. Paper + Pen + Pencil
+	3. Personal Laptop
+	4. Text Editor (To write code)
+	5. Compiler (To translate code from HLL to ML)
+
+
+	Windows 11
+	Windows 7
+	Windows XP
+	Windows Vista
+	Windows 8 & 8.1
+	Windows 10
+	Windows 2000 Professional
+	Windows ME
+	Windows 98
+
+	Windows Server 2022
+
+	LDAP
+
+	Lord Voldemort	(Tom Riddle)
+
+	Muggle
+	Witch
+
+	GUI - Graphical User Interface
+	CLI - Command Line user Interface
+	CUI - Character User Interface
+
+
+	

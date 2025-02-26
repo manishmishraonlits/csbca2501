@@ -1,0 +1,2 @@
+IDE: Integrated Development Environment
+     (Code editor + Compiler/Interpreter + Mechanism to run program)

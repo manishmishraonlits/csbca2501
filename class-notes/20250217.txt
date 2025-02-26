@@ -30,11 +30,25 @@ Philosophy
 
 Algorithm: Read two integer and find their sum.
 Step 1: Start
-Step 2: Read a, b
-Step 3: c = a + b
-Step 4: Print c
+Step 2: Read a, b		scanf("%d%d", &a, &b);
+Step 3: c = a + b		c = a + b;
+Step 4: Print c			printf("%d", c);
 Step 5: Stop
 
+TC1	:	Inputs: a = 10, b = 20
+		Output: c = 30
+
+TC2	:	Inputs: a = 1, b = 999
+		Output: c = 1000
+
+TC3	:	Inputs: a = 5000000000, b = 6000000000
+		Output: c = 11000000000
+
+TC4	:	Inputs: a = 0, b = 0
+		Output: c = 0
+
+TC5	:	Inputs: a = -110, b = -220
+		Output: c = -330
 
 
 
@@ -79,5 +93,11 @@ Step 5: Stop
 5. Write an algorithm to read temperature in degree Celsius and convert it into degree
    Fahrenheit.
 6. Write an algorithm to read radius of a circle and find its circumference and area.
+Step 1: Start
+Step 2: Read r
+Step 3: c = 2 * 3.14 * r
+Step 4: a = 3.14 * r * r
+Step 5: Print c, a
+Step 6: Stop
 
 Learn about git and GitHub
