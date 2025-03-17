@@ -1,0 +1,10 @@
+Convention
+
+Characteristics of a good program:
+1. Efficiency
+2. Portability
+3. Readability
+5. Maintainability
+6. Robustness
+
+WAP to print "C was developed by Dennis Ritche in 1972." 50000 times.

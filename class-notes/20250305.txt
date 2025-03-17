@@ -1,0 +1,10 @@
+WAP to read a price in decimal eg. 15.95 and print the output in paisa like 1595.
+
+short int	16-bit
+long int	32-bit		2^32 = 4,000,000,000
+long long int	64-bit
+
+single-precision float	32-bit	3.4 x 10^38
+double-precision float
+
+WAP to accept principal, rate & time; calculate compound interest.

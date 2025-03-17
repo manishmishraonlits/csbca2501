@@ -1,0 +1,12 @@
+Write a program to read an integer and display its rightmost digit.
+
+input: 567
+output: 7
+
+Step 1: Start
+Step 2: Read n
+Step 3: d = n % 10
+Step 4: Print d
+Step 5: Stop
+
+Operator: Symbols that tell computer perform an operation.
