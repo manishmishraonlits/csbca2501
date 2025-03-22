@@ -1,0 +1,7 @@
+WAP to print the first n natural numbers.
+WAP to read a number and print its factorial.
+
+WAP to print the sum of first n natural numbers.
+WAP to read a number and display its factors.
+WAP to read a number and count its factors.
+WAP to read a number and print its multiplication table.
