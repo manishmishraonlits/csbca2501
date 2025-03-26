@@ -1,0 +1,11 @@
+1. WAP to read two integers and display the larger one.
+2. WAP to read three integers and display the larger one.
+3. WAP to read two integers and display them in ascending order.
+4. WAP to read three integers and display them in ascending order.
+4. WAP to read seven integers and display them in ascending order.
+
+Array: A collection of similar elements.
+       A collection of similar data types.
+
+
+Go through merge sort algorithm and comment on it.

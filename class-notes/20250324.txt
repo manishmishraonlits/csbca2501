@@ -1,0 +1,7 @@
+WAP to print Fibonacci Series upto n terms.
+
+1, 1, 2, 3, 5, 8, 13, 
+
+Monalisa
+
+Leanardo Da Vinci
