@@ -1,0 +1,12 @@
+An array is a fixed-size sequenced collections of elements of the same data type.
+
+1. WAP to read 10 integers and find their average using array.
+2. WAP to read first name of the user and display it.
+3. WAP to read full name of the user and display it.
+4. WAP to read full name of the user and greet him/her good morning.
+5. WAP to read full name of the user and greet him/her as per the time of day.
+
+
+String is group of characters.
+	ABCDE1234W
+	John Doe
