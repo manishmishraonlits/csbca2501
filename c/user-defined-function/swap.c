@@ -1,8 +1,22 @@
 #include <stdio.h>
 
-int swap(int a, int b);
+void swap(int *a, int *b);     //Function declaration
 
-// void swap(void); // Category 1
-// void swap(int a, int b) //Category 4
-// int swap(int a, int b) //Category 3
-// int swap(void); //Category 4
+int main(void)
+{
+    int a, b;
+    printf("Enter the value of a: ");
+    scanf("%d", &a);
+    printf("Enter the value of b: ");
+    scanf("%d", &b);
+    swap(&a, &b);
+    printf("The values of a and b after swapping are %d and %d, respectively.", a, b);
+    return 0;
+}
+
+void swap(int *a, int *b)
+{
+    int t = *a;
+    *a = *b;
+    *b = t;
+}
